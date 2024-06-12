@@ -1,0 +1,1 @@
+Um die Applikation zu testen, soll die Datei index.html im Browser aufgerufen werden.

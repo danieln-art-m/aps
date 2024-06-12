@@ -1,0 +1,5 @@
+{
+	"require":{
+		"everapi/freecurrencyapi-php": "dev-master"
+	}
+}
